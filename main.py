@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from $FUNCTION_NAME.entry import app
+from entry.entry import app
 
 if __name__ == '__main__':
     load_dotenv()
